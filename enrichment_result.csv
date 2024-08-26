@@ -1,0 +1,96 @@
+GO,Description,Pvalue,Adjusted_Pvalue,Count_all,Group
+GO:0009992,cellular water homeostasis,0.007860119,0.178435349,4,A_vs_B
+GO:0046244,salicylic acid catabolic process,0.007860119,0.178435349,4,A_vs_B
+GO:1901600,strigolactone metabolic process,0.007860119,0.178435349,4,A_vs_B
+GO:1901601,strigolactone biosynthetic process,0.007860119,0.178435349,4,A_vs_B
+GO:0032103,positive regulation of response to external stimulus,0.007874535,0.178435349,27,A_vs_B
+GO:1903047,mitotic cell cycle process,0.008032184,0.180150403,37,A_vs_B
+GO:0032101,regulation of response to external stimulus,0.008173878,0.181476608,45,A_vs_B
+GO:0006790,sulfur compound metabolic process,0.008536379,0.187629611,58,A_vs_B
+GO:0010497,plasmodesmata-mediated intercellular transport,0.009129979,0.197862879,8,A_vs_B
+GO:1900426,positive regulation of defense response to bacterium,0.00918199,0.197862879,17,A_vs_B
+GO:0006812,cation transport,0.010068798,0.212883416,46,A_vs_B
+GO:0002237,response to molecule of bacterial origin,0.010072737,0.212883416,17,A_vs_B
+GO:0002252,immune effector process,0.010638489,0.220598099,7,A_vs_B
+GO:0030574,collagen catabolic process,0.010638489,0.220598099,7,A_vs_B
+GO:0006884,cell volume homeostasis,0.011508691,0.234223168,4,A_vs_B
+GO:0051131,chaperone-mediated protein complex assembly,0.011508691,0.234223168,4,A_vs_B
+GO:0009736,cytokinin-activated signaling pathway,0.011825415,0.238461129,15,A_vs_B
+GO:0031347,regulation of defense response,0.012183057,0.238583916,57,A_vs_B
+GO:0016051,carbohydrate biosynthetic process,0.012230548,0.238583916,58,A_vs_B
+GO:0097237,cellular response to toxic substance,0.01230146,0.238583916,9,A_vs_B
+GO:0009863,salicylic acid mediated signaling pathway,0.012410319,0.238583916,21,A_vs_B
+GO:0002682,regulation of immune system process,0.012637556,0.238583916,25,A_vs_B
+GO:0050776,regulation of immune response,0.012637556,0.238583916,25,A_vs_B
+GO:0010196,nonphotochemical quenching,0.012699872,0.238583916,5,A_vs_B
+GO:1990066,energy quenching,0.012699872,0.238583916,5,A_vs_B
+GO:0009809,lignin biosynthetic process,0.013023905,0.242597821,15,A_vs_B
+GO:0009735,response to cytokinin,0.013626688,0.249995657,18,A_vs_B
+GO:0009835,fruit ripening,0.01375875,0.249995657,12,A_vs_B
+GO:0071456,cellular response to hypoxia,0.013762272,0.249995657,29,A_vs_B
+GO:0043650,dicarboxylic acid biosynthetic process,0.014219259,0.256179768,9,A_vs_B
+GO:0000070,strigolactone biosynthetic process,0.000843892,0.042091291,26,B_vs_C
+GO:0071669,positive regulation of response to external stimulus,0.000867375,0.042146812,84,B_vs_C
+GO:0010817,regulation of hormone levels,0.000879496,0.042146812,80,B_vs_C
+GO:0006334,nucleosome assembly,0.000906053,0.042536202,12,B_vs_C
+GO:0010229,inflorescence development,0.000925724,0.042536202,13,B_vs_C
+GO:0009914,hormone transport,0.000939834,0.042536202,48,B_vs_C
+GO:0042546,cell wall biogenesis,0.001047094,0.046529049,72,B_vs_C
+GO:0006749,glutathione metabolic process,0.00115843,0.05055719,32,B_vs_C
+GO:0009723,response to ethylene,0.001504283,0.063462378,87,B_vs_C
+GO:0048281,inflorescence morphogenesis,0.001506063,0.063462378,6,B_vs_C
+GO:0006081,cellular aldehyde metabolic process,0.001567026,0.064908134,24,B_vs_C
+GO:0000041,transition metal ion transport,0.001593489,0.064908134,21,B_vs_C
+GO:0048285,organelle fission,0.001652308,0.066200672,73,B_vs_C
+GO:0098662,inorganic cation transmembrane transport,0.001721884,0.067040019,36,B_vs_C
+GO:0008283,cell population proliferation,0.001728118,0.067040019,42,B_vs_C
+GO:0140115,export across plasma membrane,0.001783224,0.068096855,31,B_vs_C
+GO:0043650,dicarboxylic acid biosynthetic process,0.001973117,0.074189213,15,B_vs_C
+GO:0120254,olefinic compound metabolic process,0.002034222,0.074912687,28,B_vs_C
+GO:0009640,photomorphogenesis,0.002053662,0.074912687,31,B_vs_C
+GO:0042127,regulation of cell population proliferation,0.002086184,0.0749799,39,B_vs_C
+GO:0034637,cellular carbohydrate biosynthetic process,0.002215676,0.078479875,70,B_vs_C
+GO:1901988,negative regulation of cell cycle phase transition,0.002286962,0.079847656,16,B_vs_C
+GO:2000068,regulation of defense response to insect,0.002441727,0.084050423,11,B_vs_C
+GO:0010928,regulation of auxin mediated signaling pathway,0.00248477,0.084344134,19,B_vs_C
+GO:0006720,isoprenoid metabolic process,0.002780323,0.092656996,83,B_vs_C
+GO:0098655,cation transmembrane transport,0.002831691,0.092656996,36,B_vs_C
+GO:0110126,phloem loading,0.002886557,0.092656996,6,B_vs_C
+GO:0044036,cell wall macromolecule metabolic process,0.002908359,0.092656996,58,B_vs_C
+GO:0000302,response to reactive oxygen species,0.002919226,0.092656996,43,B_vs_C
+GO:0009696,salicylic acid metabolic process,0.002994854,0.093838767,23,B_vs_C
+GO:0000160,phosphorelay signal transduction system,0.003214366,0.09944191,67,B_vs_C
+GO:0008299,isoprenoid biosynthetic process,0.003269648,0.099711521,78,B_vs_C
+GO:0010233,phloem transport,0.001782849,0.090213852,12,A_vs_C
+GO:0048508,embryonic meristem development,0.00183602,0.090213852,19,A_vs_C
+GO:0007017,microtubule-based process,0.001848655,0.090213852,91,A_vs_C
+GO:0006865,amino acid transport,0.001851313,0.090213852,40,A_vs_C
+GO:0043455,regulation of secondary metabolic process,0.001885143,0.090213852,33,A_vs_C
+GO:0016054,organic acid catabolic process,0.001891129,0.090213852,72,A_vs_C
+GO:0055088,strigolactone biosynthetic process,0.002134853,0.099988744,25,A_vs_C
+GO:0010371,regulation of gibberellin biosynthetic process,0.002254473,0.103705762,9,A_vs_C
+GO:1905039,carboxylic acid transmembrane transport,0.002372049,0.107199976,39,A_vs_C
+GO:0035967,cellular response to topologically incorrect protein,0.002457391,0.109142077,32,A_vs_C
+GO:0071365,cellular response to auxin stimulus,0.002598753,0.112224214,124,A_vs_C
+GO:0018958,phenol-containing compound metabolic process,0.0026562,0.112224214,41,A_vs_C
+GO:0006749,glutathione metabolic process,0.002657483,0.112224214,45,A_vs_C
+GO:0009685,gibberellin metabolic process,0.002783758,0.11566066,21,A_vs_C
+GO:0046184,aldehyde biosynthetic process,0.002899696,0.118565337,8,A_vs_C
+GO:0010243,response to organonitrogen compound,0.002945735,0.118565847,87,A_vs_C
+GO:0042542,response to hydrogen peroxide,0.002991881,0.11857056,33,A_vs_C
+GO:0009909,regulation of flower development,0.003080906,0.12024869,73,A_vs_C
+GO:0048585,negative regulation of response to stimulus,0.00320852,0.123360398,146,A_vs_C
+GO:1903825,organic acid transmembrane transport,0.003536389,0.133356516,39,A_vs_C
+GO:0009637,response to blue light,0.003584232,0.133356516,34,A_vs_C
+GO:0010262,somatic embryogenesis,0.003640106,0.133356516,7,A_vs_C
+GO:0006022,aminoglycan metabolic process,0.003709021,0.133356516,25,A_vs_C
+GO:0035966,response to topologically incorrect protein,0.003727356,0.133356516,33,A_vs_C
+GO:0010088,phloem development,0.004006952,0.141396015,14,A_vs_C
+GO:2000652,regulation of secondary cell wall biogenesis,0.004360872,0.14916226,15,A_vs_C
+GO:0044282,small molecule catabolic process,0.004362701,0.14916226,96,A_vs_C
+GO:0009734,auxin-activated signaling pathway,0.00440075,0.14916226,116,A_vs_C
+GO:0015849,organic acid transport,0.004494733,0.15036924,64,A_vs_C
+GO:1903338,regulation of cell wall organization or biogenesis,0.004832423,0.15784941,17,A_vs_C
+GO:0043200,response to amino acid,0.004904835,0.15784941,24,A_vs_C
+GO:0022604,regulation of cell morphogenesis,0.00499179,0.15784941,52,A_vs_C
+GO:0034620,cellular response to unfolded protein,0.00504839,0.15784941,22,A_vs_C
