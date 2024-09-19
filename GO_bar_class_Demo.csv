@@ -1,0 +1,53 @@
+Ontology,Description,Count
+Cellular component,membrane,724
+Cellular component,extracellular region,238
+Cellular component,cell,966
+Cellular component,cell junction,81
+Cellular component,membrane-enclosed lumen,69
+Cellular component,protein-containing complex,257
+Cellular component,organelle,633
+Cellular component,extracellular region part,91
+Cellular component,organelle part,382
+Cellular component,membrane part,653
+Cellular component,synapse part,49
+Cellular component,cell part,953
+Cellular component,synapse,59
+Cellular component,supramolecular complex,74
+Molecular function,transcription regulator activity,81
+Molecular function,catalytic activity,648
+Molecular function,cargo receptor activity,3
+Molecular function,nutrient reservoir activity,5
+Molecular function,structural molecule activity,87
+Molecular function,transporter activity,153
+Molecular function,binding,858
+Molecular function,toxin activity,13
+Molecular function,antioxidant activity,12
+Molecular function,molecular function regulator,81
+Molecular function,molecular transducer activity,82
+Molecular function,molecular carrier activity,1
+Biological process,reproduction,165
+Biological process,metabolic process,640
+Biological process,cell killing,10
+Biological process,immune system process,59
+Biological process,growth,77
+Biological process,behavior,125
+Biological process,cell proliferation,44
+Biological process,cellular process,938
+Biological process,reproductive process,160
+Biological process,biological adhesion,88
+Biological process,signaling,288
+Biological process,multicellular organismal process,538
+Biological process,developmental process,486
+Biological process,locomotion,138
+Biological process,pigmentation,26
+Biological process,rhythmic process,27
+Biological process,positive regulation of biological process,183
+Biological process,negative regulation of biological process,161
+Biological process,regulation of biological process,494
+Biological process,response to stimulus,422
+Biological process,localization,345
+Biological process,multi-organism process,199
+Biological process,biological regulation,557
+Biological process,cellular component organization or biogenesis,343
+Biological process,cell aggregation,2
+Biological process,detoxification,2
