@@ -1,0 +1,269 @@
+Index,Classification
+Phagosome,Cellular Processes
+Focal adhesion,Cellular Processes
+Regulation of actin cytoskeleton,Cellular Processes
+Lysosome,Cellular Processes
+Tight junction,Cellular Processes
+Endocytosis,Cellular Processes
+Apoptosis,Cellular Processes
+Adherens junction,Cellular Processes
+Necroptosis,Cellular Processes
+Cellular senescence,Cellular Processes
+Gap junction,Cellular Processes
+Autophagy - animal,Cellular Processes
+Mitophagy - animal,Cellular Processes
+Ferroptosis,Cellular Processes
+Cell cycle,Cellular Processes
+Oocyte meiosis,Cellular Processes
+p53 signaling pathway,Cellular Processes
+Autophagy - yeast,Cellular Processes
+Peroxisome,Cellular Processes
+Signaling pathways regulating pluripotency of stem cells,Cellular Processes
+Biofilm formation - Escherichia coli,Cellular Processes
+Apoptosis - fly,Cellular Processes
+PI3K-Akt signaling pathway,Environmental Information Processing
+NF-kappa B signaling pathway,Environmental Information Processing
+Calcium signaling pathway,Environmental Information Processing
+Phospholipase D signaling pathway,Environmental Information Processing
+ECM-receptor interaction,Environmental Information Processing
+Cell adhesion molecules,Environmental Information Processing
+Rap1 signaling pathway,Environmental Information Processing
+HIF-1 signaling pathway,Environmental Information Processing
+MAPK signaling pathway,Environmental Information Processing
+Neuroactive ligand-receptor interaction,Environmental Information Processing
+Hippo signaling pathway,Environmental Information Processing
+Cytokine-cytokine receptor interaction,Environmental Information Processing
+MAPK signaling pathway - yeast,Environmental Information Processing
+MAPK signaling pathway - fly,Environmental Information Processing
+Ras signaling pathway,Environmental Information Processing
+cGMP-PKG signaling pathway,Environmental Information Processing
+TGF-beta signaling pathway,Environmental Information Processing
+Hippo signaling pathway - fly,Environmental Information Processing
+TNF signaling pathway,Environmental Information Processing
+cAMP signaling pathway,Environmental Information Processing
+Viral protein interaction with cytokine and cytokine receptor,Environmental Information Processing
+Sphingolipid signaling pathway,Environmental Information Processing
+AMPK signaling pathway,Environmental Information Processing
+Wnt signaling pathway,Environmental Information Processing
+VEGF signaling pathway,Environmental Information Processing
+Apelin signaling pathway,Environmental Information Processing
+ErbB signaling pathway,Environmental Information Processing
+MAPK signaling pathway - plant,Environmental Information Processing
+FoxO signaling pathway,Environmental Information Processing
+Hedgehog signaling pathway,Environmental Information Processing
+JAK-STAT signaling pathway,Environmental Information Processing
+Protein processing in endoplasmic reticulum,Genetic Information Processing
+Spliceosome,Genetic Information Processing
+Ubiquitin mediated proteolysis,Genetic Information Processing
+RNA transport,Genetic Information Processing
+RNA degradation,Genetic Information Processing
+Protein export,Genetic Information Processing
+Coronavirus disease - COVID-19,Human Diseases
+Staphylococcus aureus infection,Human Diseases
+Systemic lupus erythematosus,Human Diseases
+Amoebiasis,Human Diseases
+Pathogenic Escherichia coli infection,Human Diseases
+Tuberculosis,Human Diseases
+Dilated cardiomyopathy,Human Diseases
+African trypanosomiasis,Human Diseases
+Epstein-Barr virus infection,Human Diseases
+Yersinia infection,Human Diseases
+Viral myocarditis,Human Diseases
+Primary immunodeficiency,Human Diseases
+Leishmaniasis,Human Diseases
+Transcriptional misregulation in cancer,Human Diseases
+Autoimmune thyroid disease,Human Diseases
+Allograft rejection,Human Diseases
+Rheumatoid arthritis,Human Diseases
+Asthma,Human Diseases
+Human papillomavirus infection,Human Diseases
+Prion disease,Human Diseases
+Shigellosis,Human Diseases
+Pathways in cancer,Human Diseases
+Salmonella infection,Human Diseases
+Pertussis,Human Diseases
+Proteoglycans in cancer,Human Diseases
+Lipid and atherosclerosis,Human Diseases
+Pathways of neurodegeneration - multiple diseases,Human Diseases
+Amyotrophic lateral sclerosis,Human Diseases
+Viral carcinogenesis,Human Diseases
+Fluid shear stress and atherosclerosis,Human Diseases
+Alzheimer disease,Human Diseases
+Parkinson disease,Human Diseases
+Herpes simplex virus 1 infection,Human Diseases
+Hypertrophic cardiomyopathy,Human Diseases
+Diabetic cardiomyopathy,Human Diseases
+Arrhythmogenic right ventricular cardiomyopathy,Human Diseases
+Bacterial invasion of epithelial cells,Human Diseases
+AGE-RAGE signaling pathway in diabetic complications,Human Diseases
+Malaria,Human Diseases
+Human cytomegalovirus infection,Human Diseases
+Human T-cell leukemia virus 1 infection,Human Diseases
+Kaposi sarcoma-associated herpesvirus infection,Human Diseases
+Huntington disease,Human Diseases
+Chagas disease,Human Diseases
+Human immunodeficiency virus 1 infection,Human Diseases
+MicroRNAs in cancer,Human Diseases
+Legionellosis,Human Diseases
+Influenza A,Human Diseases
+Bladder cancer,Human Diseases
+Small cell lung cancer,Human Diseases
+Toxoplasmosis,Human Diseases
+Hepatitis B,Human Diseases
+Central carbon metabolism in cancer,Human Diseases
+Endocrine resistance,Human Diseases
+Insulin resistance,Human Diseases
+Spinocerebellar ataxia,Human Diseases
+Chemical carcinogenesis - receptor activation,Human Diseases
+Prostate cancer,Human Diseases
+EGFR tyrosine kinase inhibitor resistance,Human Diseases
+Type II diabetes mellitus,Human Diseases
+Non-alcoholic fatty liver disease,Human Diseases
+Cushing syndrome,Human Diseases
+Type I diabetes mellitus,Human Diseases
+Alcoholism,Human Diseases
+Vibrio cholerae infection,Human Diseases
+Hepatitis C,Human Diseases
+Measles,Human Diseases
+Endometrial cancer,Human Diseases
+Thyroid cancer,Human Diseases
+Acute myeloid leukemia,Human Diseases
+Graft-versus-host disease,Human Diseases
+Cationic antimicrobial peptide (CAMP) resistance,Human Diseases
+Antifolate resistance,Human Diseases
+Morphine addiction,Human Diseases
+Epithelial cell signaling in Helicobacter pylori infection,Human Diseases
+Renal cell carcinoma,Human Diseases
+Melanoma,Human Diseases
+Breast cancer,Human Diseases
+Hepatocellular carcinoma,Human Diseases
+Gastric cancer,Human Diseases
+Metabolic pathways,Metabolism
+Biosynthesis of secondary metabolites,Metabolism
+Microbial metabolism in diverse environments,Metabolism
+Carbon metabolism,Metabolism
+Glycolysis / Gluconeogenesis,Metabolism
+Biosynthesis of amino acids,Metabolism
+Pentose phosphate pathway,Metabolism
+Carbon fixation in photosynthetic organisms,Metabolism
+Glutathione metabolism,Metabolism
+Starch and sucrose metabolism,Metabolism
+Various types of N-glycan biosynthesis,Metabolism
+Pyruvate metabolism,Metabolism
+Fructose and mannose metabolism,Metabolism
+Purine metabolism,Metabolism
+Cysteine and methionine metabolism,Metabolism
+Arginine and proline metabolism,Metabolism
+Tyrosine metabolism,Metabolism
+beta-Alanine metabolism,Metabolism
+N-Glycan biosynthesis,Metabolism
+Other glycan degradation,Metabolism
+Amino sugar and nucleotide sugar metabolism,Metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin,Metabolism
+Arachidonic acid metabolism,Metabolism
+Methane metabolism,Metabolism
+Porphyrin and chlorophyll metabolism,Metabolism
+Biosynthesis of cofactors,Metabolism
+Histidine metabolism,Metabolism
+Glycosaminoglycan degradation,Metabolism
+Inositol phosphate metabolism,Metabolism
+Ether lipid metabolism,Metabolism
+Glyoxylate and dicarboxylate metabolism,Metabolism
+Propanoate metabolism,Metabolism
+Riboflavin metabolism,Metabolism
+Nicotinate and nicotinamide metabolism,Metabolism
+Nitrogen metabolism,Metabolism
+Citrate cycle (TCA cycle),Metabolism
+Pyrimidine metabolism,Metabolism
+"Glycine, serine and threonine metabolism",Metabolism
+Phenylalanine metabolism,Metabolism
+Tryptophan metabolism,Metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate,Metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Metabolism
+Glycerophospholipid metabolism,Metabolism
+Sphingolipid metabolism,Metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series,Metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series,Metabolism
+Glycosphingolipid biosynthesis - ganglio series,Metabolism
+Styrene degradation,Metabolism
+Thiamine metabolism,Metabolism
+Biotin metabolism,Metabolism
+Folate biosynthesis,Metabolism
+Terpenoid backbone biosynthesis,Metabolism
+Sulfur metabolism,Metabolism
+Phenylpropanoid biosynthesis,Metabolism
+Isoquinoline alkaloid biosynthesis,Metabolism
+"Tropane, piperidine and pyridine alkaloid biosynthesis",Metabolism
+Drug metabolism - other enzymes,Metabolism
+Biosynthesis of ansamycins,Metabolism
+Complement and coagulation cascades,Organismal Systems
+Neutrophil extracellular trap formation,Organismal Systems
+Hematopoietic cell lineage,Organismal Systems
+Fc gamma R-mediated phagocytosis,Organismal Systems
+Natural killer cell mediated cytotoxicity,Organismal Systems
+B cell receptor signaling pathway,Organismal Systems
+Intestinal immune network for IgA production,Organismal Systems
+Fc epsilon RI signaling pathway,Organismal Systems
+Platelet activation,Organismal Systems
+Cholesterol metabolism,Organismal Systems
+Leukocyte transendothelial migration,Organismal Systems
+Protein digestion and absorption,Organismal Systems
+Axon guidance,Organismal Systems
+Antigen processing and presentation,Organismal Systems
+Estrogen signaling pathway,Organismal Systems
+Thyroid hormone synthesis,Organismal Systems
+PPAR signaling pathway,Organismal Systems
+Relaxin signaling pathway,Organismal Systems
+Pancreatic secretion,Organismal Systems
+IL-17 signaling pathway,Organismal Systems
+Salivary secretion,Organismal Systems
+Osteoclast differentiation,Organismal Systems
+Chemokine signaling pathway,Organismal Systems
+Adrenergic signaling in cardiomyocytes,Organismal Systems
+NOD-like receptor signaling pathway,Organismal Systems
+Oxytocin signaling pathway,Organismal Systems
+Glucagon signaling pathway,Organismal Systems
+Vitamin digestion and absorption,Organismal Systems
+Cardiac muscle contraction,Organismal Systems
+Vascular smooth muscle contraction,Organismal Systems
+Renin-angiotensin system,Organismal Systems
+Plant-pathogen interaction,Organismal Systems
+Th17 cell differentiation,Organismal Systems
+Neurotrophin signaling pathway,Organismal Systems
+Inflammatory mediator regulation of TRP channels,Organismal Systems
+Thyroid hormone signaling pathway,Organismal Systems
+Fat digestion and absorption,Organismal Systems
+Longevity regulating pathway,Organismal Systems
+Longevity regulating pathway - worm,Organismal Systems
+Longevity regulating pathway - multiple species,Organismal Systems
+Toll-like receptor signaling pathway,Organismal Systems
+GABAergic synapse,Organismal Systems
+Insulin signaling pathway,Organismal Systems
+GnRH signaling pathway,Organismal Systems
+Renin secretion,Organismal Systems
+"Growth hormone synthesis, secretion and action",Organismal Systems
+Proximal tubule bicarbonate reclamation,Organismal Systems
+Collecting duct acid secretion,Organismal Systems
+Gastric acid secretion,Organismal Systems
+Carbohydrate digestion and absorption,Organismal Systems
+Toll and Imd signaling pathway,Organismal Systems
+C-type lectin receptor signaling pathway,Organismal Systems
+Circadian entrainment,Organismal Systems
+Thermogenesis,Organismal Systems
+Long-term potentiation,Organismal Systems
+Retrograde endocannabinoid signaling,Organismal Systems
+Glutamatergic synapse,Organismal Systems
+Cholinergic synapse,Organismal Systems
+Serotonergic synapse,Organismal Systems
+Dopaminergic synapse,Organismal Systems
+Olfactory transduction,Organismal Systems
+Phototransduction,Organismal Systems
+Phototransduction - fly,Organismal Systems
+Progesterone-mediated oocyte maturation,Organismal Systems
+Prolactin signaling pathway,Organismal Systems
+Adipocytokine signaling pathway,Organismal Systems
+Aldosterone synthesis and secretion,Organismal Systems
+Cortisol synthesis and secretion,Organismal Systems
+Vasopressin-regulated water reabsorption,Organismal Systems
+Bile secretion,Organismal Systems
+Mineral absorption,Organismal Systems
